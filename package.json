@@ -1,0 +1,23 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "testapp",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manojshetty28/testapp.git"
+  },
+  "keywords": [
+    "testapp"
+  ],
+  "author": "Manoj Shetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manojshetty28/testapp/issues"
+  },
+  "homepage": "https://github.com/manojshetty28/testapp"
+}
